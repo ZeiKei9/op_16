@@ -438,6 +438,7 @@ int main() {
     );
 
 
+
     outputMatrix(m1);
     printf("-------------------\n");
     int res = getNSpecialElement2(m1);

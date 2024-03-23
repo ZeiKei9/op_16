@@ -116,4 +116,5 @@ void printMatrixWithMaxZeroRows(matrix *ms, int nMatrix);
 
 int min2(int a, int b);
 int getNSpecialElement2(matrix m);
+
 #endif //LAB_MATRIX_H
